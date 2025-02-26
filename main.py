@@ -1,4 +1,3 @@
-import openai
 import streamlit as st
 
 # Function to perform the unit conversion
